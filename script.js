@@ -8,8 +8,8 @@ function fibonacci(num) {
 		b=c;
 		s+=c+","
 	}
-	console.log(s);
+	return s;
 }
-fibonacci(5);
+// fibonacci(5);
 
 module.exports = fibonacci;
