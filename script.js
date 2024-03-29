@@ -10,5 +10,6 @@ function fibonacci(num) {
 	}
 	console.log(s);
 }
+fibonacci(5);
 
 module.exports = fibonacci;
