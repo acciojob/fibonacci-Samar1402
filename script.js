@@ -6,7 +6,7 @@ function fibonacci(num) {
 		c=a+b;
 		a=b;
 		b=c;
-		console.log(c);
+		console.log(c,);
 	}
 }
 
